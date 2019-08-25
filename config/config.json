@@ -1,9 +1,0 @@
-{
-  "GCP_PROJECT_ID": "rapid-depot-212203",
-  "GCP_PUBSUB_TOPIC_NAME": "sensor-data-dev",
-  "MESSAGE_SOURCE_FOLDER": "/opt/sensor-datafile/node-0001/source/",
-  "MESSAGE_PROCESSING_FOLDER": "/opt/sensor-datafile/node-0001/processing/",
-  "MESSAGE_ERROR_FOLDER": "/opt/sensor-datafile/node-0001/error/",
-  "MESSAGE_ARCHIVE_FOLDER": "/opt/sensor-datafile/node-0001/archive/",
-  "MESSAGE_FILE_PREFIX": "datafile."
-}
