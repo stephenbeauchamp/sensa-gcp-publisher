@@ -1,3 +1,4 @@
 /config/gcp-credentials.json
 /config/config/json
 **/log*.txt
+**/*.pyc

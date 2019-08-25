@@ -1,4 +1,9 @@
 {
   "GCP_PROJECT_ID": "demo-project-name",
-  "GCP_PUBSUB_TOPIC_NAME": "demo-topic-name"
+  "GCP_PUBSUB_TOPIC_NAME": "demo-topic-name",
+  "MESSAGE_SOURCE_FOLDER": "/tmp/sensor-datafile/source/",
+  "MESSAGE_PROCESSING_FOLDER": "/tmp/sensor-datafile/processing/",
+  "MESSAGE_ERROR_FOLDER": "/tmp/sensor-datafile/error/",
+  "MESSAGE_ARCHIVE_FOLDER": "/tmp/sensor-datafile/archive/",
+  "MESSAGE_FILE_PREFIX": "datafile."
 }
