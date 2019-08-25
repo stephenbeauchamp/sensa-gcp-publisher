@@ -1,0 +1,18 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": false,
+  "hostname": "192.168.192.17",
+  "target": "/source-code/github.com_stephenbeauchamp/sensa-gcp-publisher/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "pi",
+  "password": "password",
+  "watch": [],
+  "transport": "scp"
+}
