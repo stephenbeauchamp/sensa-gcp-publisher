@@ -1,0 +1,4 @@
+{
+  "GCP_PROJECT_ID": "demo-project-name",
+  "GCP_PUBSUB_TOPIC_NAME": "demo-topic-name"
+}
